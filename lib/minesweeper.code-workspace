@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../cssshit"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dev-academy"
+	}
+}
